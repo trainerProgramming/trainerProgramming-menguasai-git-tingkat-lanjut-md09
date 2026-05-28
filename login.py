@@ -1,5 +1,5 @@
 # Fungi Login
-def login(): 
-     print("Login berhasil dari FITUR LOGIN")
+def login():      
+  print("Login berhasil dari FITUR LOGIN")
     
 login()
