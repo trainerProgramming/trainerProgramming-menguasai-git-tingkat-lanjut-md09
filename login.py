@@ -1,5 +1,5 @@
 # Fungi Login
-def login(): 
-    print('Simulasi: Login Berhasil lewat Branch MAIN!')
-
+def login():      
+  print("Login berhasil dari FITUR LOGIN")
+    
 login()
