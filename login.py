@@ -1,5 +1,5 @@
 # Fungi Login
 def login(): 
-    print('Simulasi: Fungsi Login Berhasil!')
-
+     print("Login berhasil dari FITUR LOGIN")
+    
 login()
